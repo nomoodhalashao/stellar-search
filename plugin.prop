@@ -3,4 +3,4 @@ description=示例
 version=0.2
 url=https://github.com/nomoodhalashao/stellar-search
 type=collection
-urls=https://github.com/stellarplayer/stellar-WebDAVClient,https://github.com/stellarplayer/stellar-web-ctrl
+urls=https://github.com/ninebird1/stellar-webdav,https://github.com/stellarplayer/stellar-web-ctrl
